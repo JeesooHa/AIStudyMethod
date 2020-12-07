@@ -28,3 +28,7 @@ AI 공부시 참고할만한 강의, 책, 좋은 글 등을 정리
 
 * __[제프리 힌튼의 신경망과 딥러닝 강좌](https://www.cs.toronto.edu/~hinton/coursera_lectures.html)__
   * 
+  
+* __[MIT 딥러닝 입문강의 6.S191(2020)](http://introtodeeplearning.com/2020/index.html)
+  * MIT에서 제공하는 딥러닝 입문 강좌, 매년 업데이트 되고 있어 최신 기술에 대해서도 잘 설명함
+  * 강좌 비디오, 슬라이드 자료 다운로드 가능
